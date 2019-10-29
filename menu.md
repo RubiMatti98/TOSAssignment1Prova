@@ -1,3 +1,3 @@
 1165720
 
-<a href="panini/menu.md">Paninoi</a>
+<a href="../panini/menu.md">Panini</a>
